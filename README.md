@@ -8,6 +8,6 @@ Final project, Front-end part using ReactJS
 * /pages/VideoDetail.jsx<br>
   detail of video from HomePages.jsx
 
-* /pages.ProfilePage.jsx<br>
+* /pages/ProfilePage.jsx<br>
   profil of user
   
